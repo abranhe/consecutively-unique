@@ -1,0 +1,37 @@
+{
+  "name": "consecutively-unique",
+  "version": "1.0.0",
+  "description": "Generator from a consecutively number list",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abranhe/consecutively-unique.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "consecutively-unique",
+    "random",
+    "rand",
+    "unique",
+    "value"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "email": "abraham@abranhe.com",
+    "web": "abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/consecutively-unique/issues"
+  },
+  "homepage": "https://github.com/abranhe/consecutively-unique#readme",
+  "devDependencies": {
+    "ava": "1.0.0-beta.6",
+    "xo": "^0.21.1"
+  }
+}
