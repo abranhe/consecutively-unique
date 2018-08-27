@@ -51,6 +51,9 @@ console.log(val(), val(), val(), val());
 | :-: |
 | [Carlos Abraham](https://github.com/abranhe) |
 
+# Related
+
+- [cu](https://github.com/abranhe/cu): same thing but in Python
 
 # License
 
